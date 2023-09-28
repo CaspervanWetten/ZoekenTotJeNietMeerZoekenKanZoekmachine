@@ -7,6 +7,7 @@ from ZTJNMZKBackEnd import WriteToTxt
 app = Flask(__name__)
 
 @app.route('/')
+def zoekscherm():
 	return render_template('zoekscherm.html')
 
 @app.route('/zoekopdracht', methods=['POST'])
