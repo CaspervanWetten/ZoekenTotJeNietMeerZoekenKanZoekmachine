@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Tekst toevoegen</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+   		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+		<link rel="stylesheet"  href="/static/style.css">
+	</head>
+	<body>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-12 aling-self-center text" style="padding-top: 2em;">
+				<a href="/">
+				<h2> ZoekenTotJeNietMeerZoekenKanZoekMachine</h2> 
+					Vul beneden uw zoekopdracht in:
+				</a>
+				</div>
+				<div class="col-sm-12 aling-self-center h-25">
+					<div class="col-sm-9" style="margin:0 auto;">
+						<div class="searchbar">
+							<form method="POST" action="zoekopdracht">
+								<input class="search_input" type="text" name="query" placeholder="Search...">
+								<button type="submit" value="" class="search_icon" style="text-decoration:none;"><i class="fas fa-search"></i></button>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<hr> <!-- niet veel speciaals gebeurt hier, zie addtxt2.html -->
+		<div class="container-fluid" style="background-color:#fafafa; height: 100%;">
+			<div class="row">
+				<div class="col-sm justify-content-center" style="padding: 2em 10em;">
+					<small>Let op, omdat er veel gerekend wordt op de achtergrond kan het lang duren voordat dit process compleet is, herlaadt de pagina NIET als de pagina aan het laden is</small>
+					<!-- dit is toegevoegd omdat sommige PCs last hebben met het rekenen, en de gemiddelde gebruiker een idioot is wat gaat spammen het moment dat iets niet DIRECT gebeurt-->
+                    <form action="addtxt2" method="post">
+                        <div class="form-group">
+                            <label for="titel">Titel:</label>
+                            <input type="name" class="form-control" name="titel" aria-describedby="emailHelp">
+                        </div>
+                        <div class="form-group">
+                            <label for="text">Text:</label>
+                            <textarea class="form-control" name="text" rows="12"></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary" action="addtxt2">Submit</button>
+                    </form>
+				</div>
+			</div>
+		</div>
+	</body>
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</html>

@@ -1,0 +1,53 @@
+GameStop mania: why Reddit traders are unlikely to face prosecution 
+
+Regulators would need to find evidence of deception to prove market manipulation, say lawyers. 
+
+Last week’s stock market turmoil sparked a probe by US financial regulators into whether market manipulation was involved, but lawyers doubt it will lead to prosecutions. 
+
+The Securities and Exchange Commission announced on Friday it was looking into what happened when users of Reddit chat rooms drove shares in a handful of companies — including the games retailer GameStop — dramatically higher. 
+
+But while retail investors succeeded in squeezing large institutional investors, experts do not believe their actions are likely to amount to market manipulation. 
+
+“If someone has been posting on a subreddit that they are very enthusiastic and are acquiring shares in a company, and all the while they are selling, then you have a potential violation,” said Joseph Grundfest, a Stanford professor and former commissioner at the SEC. 
+
+“But if in all of the tweets and postings there is no misrepresentation, then you could well find that there are no violations in law.” 
+
+Last week’s market frenzy has presented regulators with an unusual challenge. While speculation has driven rushes on stocks before, it is rare for retail investors to buy in such numbers that they squeeze out large institutions that have bet against those companies. 
+
+The buying spree targeted companies against which institutional investors had taken out short positions, betting on their decline. 
+
+Retail investors discussed how, if they bought in enough numbers, they could force short sellers to buy shares to stem their losses, thereby adding fuel to the rally. Traders egged each other on over Reddit message boards, repeating a mantra borrowed from Disney series The Mandalorian: “This is the way”. 
+
+Regulators are worried this co-ordinated activity has created a bubble which is likely to burst, potentially causing ruinous losses for some retail investors. Allison Herren Lee, the acting chair of the SEC, said in a joint statement with three other commissioners on Friday: “Extreme stock price volatility has the potential to expose investors to rapid and severe losses and undermine market confidence.” 
+
+But if the SEC wants to take enforcement action against any of the market participants, legal experts say they will have a difficult case to prove. 
+
+The Securities Exchange Act of 1934 makes it illegal to use “any manipulative device or contrivance” in buying or selling regulated shares. 
+
+But manipulation, say legal scholars, is a term of art. “Manipulation is like what Potter Stewart said about obscenity,” said Todd Henderson, a law professor at the University of Chicago. “You know it when you see it.” 
+
+Most commonly, regulators have interpreted manipulative trades to involve deception: whether lying about a company’s performance, or the true owner of a share, or a trader’s true opinion about a company. 
+
+And while Reddit users appear to have co-ordinated to help drive up shares in companies whose underlying performance might not have merited it, it is unclear whether they deceived anyone in doing so. 
+
+“If you are telling people to buy a company in bad faith, that is manipulation,” said John Coffee, a professor at Columbia Law School and a former legal adviser to the New York Stock Exchange. “But these people are true believers; there is nothing illegal about making wildly optimistic statements.” 
+
+The SEC rarely brings manipulation cases at all — they accounted for just 5 per cent of enforcement actions in 2019-2020 — and almost never in cases where they are not alleging deception. 
+
+One case that might prove a precedent is the 2001 SEC action against Jonathan Lebed, the New Jersey teenager who made hundreds of thousands of dollars buying stocks in thinly traded companies before hyping them on internet message boards. But Mr Lebed was accused of deception: regulators said he used dozens of different online aliases to create the illusion of widespread interest in those stocks. 
+
+Even if regulators do decide that manipulation might have occurred last week, many experts believe they are unlikely to act against day traders who do not have significant individual market power. They point out that Gary Gensler, Joe Biden’s nominee to head the SEC, made his name in the Obama era as a financial regulator who was tough on Wall Street, and is unlikely to prioritise prosecuting retail traders. 
+
+“Even if the SEC decides something was wrong here, the decision over whether to go after Joe Bag o’Donuts is a political one,” said Mr Henderson. 
+
+The SEC is not only looking into the traders who bought stock last week however: it is also probing the brokerages that enabled the trades, before placing temporary curbs on them, triggering sudden share price drops. 
+
+The trading restrictions put in place by online brokerages such as Robinhood attracted the ire of politicians from across the political spectrum, from the progressive congresswoman Alexandria Ocasio-Cortez, to the conservative senator Ted Cruz. Some online commentators even accused the brokerages of being part of a Wall Street plot to protect certain hedge funds whose losses were mounting. 
+
+Robinhood, however, said it was required to act because of the extreme volatility in the markets, referring to SEC rules which force brokerages to hold a certain amount of capital as a ratio of outstanding trades. Given the unprecedented volume of trading occurring at the time, legal experts believe the company might have breached these net capital requirements had it not acted to stem the flow of trades and raise capital. 
+
+If enforcement action is unlikely, many believe last week’s volatility could trigger a shake-up of rules that were largely written in the era before commission-free trading and widespread use of internet message boards. 
+
+“We saw what happened when social media arrived at the US Capitol,” said Jill Fisch, professor of business law at the University of Pennsylvania, referring to the mob attack in Washington DC earlier this month. “Now we are seeing what happens when social media arrives in capital markets, and regulators will have to respond.” 
+
+https://www.ft.com/content/8caa3c75-944a-468e-8a68-9deeec8b67d8
